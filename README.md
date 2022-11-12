@@ -27,7 +27,7 @@ $ mka bacon -jX
 
 ### Credits ###
 
-*[Pixel Experience](https://github.com/PixelExperience/)
-*[Syberia Project](https://github.com/syberia-project/)
-*[VoidUI](https://github.com/VoidUI-Tiramisu/)
-*[ArrowOS](https://github.com/ArrowOS/)
+* [**Pixel Experience**](https://github.com/PixelExperience/)
+* [**Syberia Project**](https://github.com/syberia-project/)
+* [**VoidUI**](https://github.com/VoidUI-Tiramisu/)
+* [**ArrowOS**](https://github.com/ArrowOS/)
