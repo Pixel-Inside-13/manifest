@@ -58,7 +58,7 @@
 
   <!-- General repos -->
   <project path="art" name="art" remote="inside" />
-  <project path="bionic" name="bionic" remote="pixel" />
+  <project path="bionic" name="bionic" remote="inside" />
   <project path="build/make" name="build" remote="inside">
     <copyfile src="core/root.mk" dest="Makefile" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
